@@ -1,6 +1,6 @@
 # scidev2_hw1
 
-# toymodel_without_ddp
+# without_DDP
 
 epoch  train_loss  train_accuracy  val_loss  val_accuracy  batch_size  epoch_time
 
@@ -71,7 +71,7 @@ epoch  train_loss  train_accuracy  val_loss  val_accuracy  batch_size  epoch_tim
 9  0.408       0.895           0.288      0.854         128       23.1
 
 
-# toymodel_ddp
+# DDP
 
 epoch  num_processes  batch_size  epoch_time  train_loss  val_loss  val_accuracy  train_accuracy
 
